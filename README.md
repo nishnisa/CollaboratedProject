@@ -1,2 +1,2 @@
 # This is README.md FIle
-# It contains the information about project
+# It contains the information about project.
